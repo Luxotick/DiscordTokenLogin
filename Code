@@ -1,4 +1,4 @@
-//// first write this code to discord web application's login screen console
+-first write this code to discord web application's login screen console
 
 function login(token) {
 setInterval(() => {
