@@ -1,5 +1,3 @@
-///// first write this code to discord web application's login screen console
-
 function login(token) {
 setInterval(() => {
 document.body.appendChild(document.createElement `iframe`).contentWindow.localStorage.token = `"${token}"`
@@ -9,6 +7,7 @@ location.reload();
 }, 2500);
 }
 
-//// And then write 2. code which below
+
+
 
 login ("Discord Token")
